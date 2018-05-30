@@ -1,0 +1,232 @@
+about.this.file: >-
+  Strings in different locales are auto-generated and maintained by
+  locale_strings.js.
+auth.enter_phone_number: Nhập số điện thoại
+auth.enter_verification_code: >-
+  Hãy điền vào 6 ký tự xác thực đã được gửi đến điện thoại của Bạn
+  <strong>%s</strong>
+auth.login: Đăng nhập
+auth.login_with_telegram: Đăng nhập bằng Telegram
+auth.next: Next
+auth.phone_number: Số điện thoại
+auth.tab.mobile: Số điện thoại(Trung Quốc)
+auth.tab.telegram: Telegram
+auth.verification_code: Mã xác thực
+charity.donated: Quyên góp
+charity.more-info: Thông tin thêm về chương trình Từ Thiện
+charity.question: Làm thế nào Tôi biết về IoTeX? Tại sao Tôi quan tâm đến IoTex?
+charity.share-message: Hãy chia sẻ những điều tử tế!
+charity.to: đến
+charity.tweet.summary.description: >-
+  Chứng tôi trân trọng tấm lòng của Bạn! Bên cạnh việc gửi tặng Bạn 16,000 điểm như quà cảm ơn, chúng tôi sẽ chia sẽ nghĩa cử cao đẹp của Bạn lên website IoTeX!
+charity.tweet.summary.image: >-
+  https://s3.amazonaws.com/web-iotex-static/home/1st-charity-twitter-summary-image-v2.png
+charity.tweet.summary.title: Bạn đang ở Bảng Tôn Vinh IoTeX!
+claim.btn: LẤY ĐIỂM CỦA BẠN
+contact.btn: LIÊN HỆ
+contact.desc: Chuyên gia của IoTeX luôn sẵn sàng giải đáp thắc mắc của Bạn qua địa chỉ email support@iotex.io
+contact.title: GIỮ LIÊN LẠC
+doraHacks: DoraHacks
+ethFoundation: Tổ chức Ethereum
+geetest.loading_captcha: Đang lấy mã captcha...
+hall-of-fame.badge-section.title: Chương trình thiện nguyện IoTeX lần 1 — Tổ Chức Ethereum
+hall-of-fame.badge-section.unicorn.desc: >
+  Ethereum đã cách mạng hóa thế giới blockchain trong bốn năm qua và làm "blockchain" trở thành từ khóa thông dụng mới nhất. 
+  Với vị trí tiên phong trong ngành, Ethereum đã cung cấp <a target="_blank"
+  href="https://blog.ethereum.org/2018/03/07/announcing-beneficiaries-ethereum-foundation-grants/">grants</a> để thúc đẩy các nhà nghiên cứu và nhà phát triển hàng đầu làm việc nhằm hỗ trợ toàn bộ hệ sinh thái blockchain. 
+  IoTeX tin tưởng mạnh mẽ rằng chúng ta có thể có những bước tiến trong ngành thông qua nghiên cứu và cộng tác chặt chẽ. 
+  Chúng tôi cần những nhân tài và những bộ óc sáng giá nhất để tạo ra một sự bùng nổ trên thế giới. 
+  Bằng một việc nhỏ nhưng ý nghĩa to lớn đó là Bạn có thể giúp đỡ chúng tôi bằng cách quyên tặng ETH cho Tổ Chức Ethereum để làm quỹ tài trợ cho nghiên cứu blockchain.
+
+
+  Để tìm hiểu chi tiết việc tham gia, hãy tham gia vào <a target="_blank"
+  href="https://t.me/IoTeXGroup"> Nhóm Telegram </a> và đọc kỹ phần thông điệp được ghim.
+
+
+  Thông tin chi tiết có thể xem tại <a target="_blank"
+  href="https://medium.com/@iotex/iotex-1st-charity-program-update-d1959e67e756">Chương trình thiện nguyện IoTeX lần 1 Cập Nhật</a>.
+hall-of-fame.search.label: Tìm kiếm bằng hashid hoặc Tên Hiển Thị
+hall-of-fame.thank-you.message: >
+  
+  Gây quỹ cộng đồng như một cách để tài trợ từ thiện không phải là mới, nhưng IoTeX đang thực hiện nó thông qua "hợp đồng thông minh" và chuyển hướng sự cường điệu tiền điện tử thành các mục đích từ thiện. Trong vài tháng tới, thông qua chương trình khen thưởng cộng đồng, IoTeX sẽ tiếp tục chọn một vài chương trình từ thiện phù hợp với Sứ mệnh của IoTeX là “Connecting the Physical World, Block by Block” như là một phần của Chương trình khen thưởng cộng đồng của IoTeX.
+
+
+ 
+  IoTeX tin tưởng vào việc phát triển cùng với cộng đồng và kết nối
+  khối thế giới thật theo khối. Đó là một mục tiêu đầy tham vọng nhưng nó có thể
+  đạt được với một đội ngũ mạnh và cộng đồng hỗ trợ. Cùng với 
+  cộng đồng để thúc đẩy cho sự phát triển của hệ sinh thái blockchain,
+  IoTeX thực sự hy vọng rằng cộng đồng có thể hiểu được
+  ý định ban đầu và giúp thúc đẩy ý định này.
+hall-of-fame.title: Từ thiện IoTeX
+home.about.inno.0.desc.keep: >-
+  Hỗ trợ hàng triệu node với kết quả tức thì và độ trễ thấp, 
+  môi trường thân thiện, thiết kế dành cho IoT
+home.about.inno.0.title.keep: Đồng thuận nhanh
+home.about.inno.1.desc.keep: >-
+  Giống như Plasma, kéo trạng thái ra khỏi chuỗi gốc để tăng thêm sự riêng tư,
+  tính ổn định và khả năng tương tác; cải tiến cross-chain chuyển đổi giá trị và dữ liệu.
+home.about.inno.1.title.keep: Blockchain trong Blockchains
+home.about.inno.2.desc.keep: >-
+  Tối đa hóa sự riêng tư với các chương trình mã hóa sáng tạo như "lightweight stealth
+  address" và "constant size ring signature"
+home.about.inno.2.title.keep: Tích hợp sẵn kỹ thuật bảo mật
+home.about.inno.3.desc.keep: 'Tổ chức hệ thống phân tán dành cho IoT, code là luật cho thế giới robot'
+home.about.inno.3.title.keep: Điều phối thiết bị tự động
+home.about.sol.desc1: >-
+  Mặc dù đã có sự tiến bộ nhanh chóng, IoT vẫn còn xa để tiếp cận hàng loạt và 
+  thiếu ứng dụng để thu hút người dùng mới vào hệ sinh thái
+  do các vấn đề như khả năng mở rộng thấp, chi phí vận hành cao, mối quan tâm về quyền riêng tư và thiếu các chức năng hữu dụng.
+home.about.sol.desc2: >-
+  IoTeX đang giải quyết vấn đề này bằng việc đưa token vào môi trường IoT 
+  vì chúng tôi tin tưởng rằng việc thúc đẩy crypto cũng như nỗ lực của cộng đồng
+  là hai lực lượng chính để thúc đẩy sự đổi mới trong môi trường IoT. 
+  Tóm lại, IoTeX là nền tảng blockchain theo định hướng IoT thế hệ mới với khả năng mở rộng mạnh mẽ,
+  tính riêng tư, tính cô lập và khả năng phát triển để ấp ủ các ứng dụng IoT mới và các hệ sinh thái.
+home.decentralized-protocol: Một mạng lưới phân tán cho Internet of Things
+home.dustin.desc.keep: >-
+  Tiến sĩ về Bảo mật dữ liệu tại USC.
+  Nhân viên kỹ sư phần mềm tại Intel. 
+  12 năm chuyên môn trong các hệ thống phân tán, bảo vệ nội dung, phần cứng tăng tốc xử lý video, truyền video trực tuyến,
+  trình điều khiển đồ họa. Đam mê mã hóa và blockchain.
+home.dustin.name.keep: Dustin Xie
+home.dustin.title.keep: Kỹ Sư Blockchain
+home.fan.desc.keep: >-
+  Trước đây từng là đối tác sáng lập của Sequoia Capital China, và là Giám đốc của DFJ ePlanet Ventures. 
+  Xếp hạng bởi Forbes là một trong những nhà đầu tư mạo hiểm hàng đầu trong Danh sách Midas hàng năm của Trung Quốc.
+home.fan.name.keep: Fan Zhang
+home.fan.title.keep: null
+home.guang.desc.keep: >-
+  IEEE Fellow. Giáo sư tại Đại học Waterloo, Canada. 
+  Nhà khoa học hàng đầu về mật mã và mật mã nhẹ, mạng ad hoc và bảo mật nhận dạng tần số vô tuyến (RFID).
+home.guang.name.keep: Guang Gong
+home.guang.title.keep: null
+home.hao.desc.keep: >-
+  Thạc sĩ Kỹ sư phần mềm tại Đại học Carnegie Mellon. Web và người đam mê blockchain.
+home.hao.name.keep: Hao Cui
+home.hao.title.keep: Thực Tập Sinh Kỹ Sư Phần Mềm
+home.jack.desc.keep: >-
+  Đồng sáng lập quản lý đối tác của HCM Capital, Foxconn Technology Group. 
+  Đồng sáng lập và Giám đốc điều hành của Chained Finance Ltd., 
+  Người sáng lập & Giám đốc điều hành của FnConn, và Giám đốc của Abra.
+home.jack.name.keep: Jack Lee
+home.jack.title.keep: null
+home.jing.desc.keep: >-
+  Sáng lập của Sparkland Capital, tập trung vào Frontier Tech, hơn 40 dự án đầu tư và đổi mới trong blockchain, bảo mật và IoT. 
+  Thành viên ban giám đốc của nhiều công ty. Có nhiều kinh nghiệm trong việc khởi động, đầu tư và xây dựng hệ sinh thái.
+home.jing.name.keep: Jing Sun
+home.jing.title.keep: Đồng Sáng Lập
+home.larry.desc.keep: >-
+  Tư vấn quản lý tại Oliver Wyman, chuyên về các hoạt động kỹ thuật số. 
+  Tốt nghiệp Finance & Economics, Visual Arts & Design tại MIT. Người đam mê Blockchain và IoT.
+home.larry.name.keep: Larry Pang
+home.larry.title.keep: Phát triển cộng đồng
+home.monika.desc.keep: >-
+  Chuyên gia truyền thông công nghệ có chuyên môn sâu về an ninh mạng, bảo mật, mạng và công nghệ mới nổi.
+home.monika.name.keep: Monika Hathaway
+home.monika.title.keep: Truyền thông
+home.nick.desc.keep: >-
+  Thạc sĩ Khoa học Máy tính tại USC và Cử nhân tại Đại học Wisconsin-Madison. 
+  Phát triển web, blockchain và đam mê machine learning.
+home.nick.name.keep: Nick Chen
+home.nick.title.keep: Thực tập sinh toàn thời gian
+home.paddy.desc.keep: >-
+  Kỹ sư phần mềm cao cấp tại Microsoft, chuyên về các hệ thống phân tán. 
+  Đóng góp tích cực cho các dự án mã nguồn mở. Tốt nghiệp ngành Khoa học Máy tính tại Đại học Yale.
+home.paddy.name.keep: Paddy Kan
+home.paddy.title.keep: Hệ Thống Phân Tán
+home.powered-by: Powered by a Privacy-Centric Blockchain
+home.qevan.desc.keep: >-
+  Tiến sĩ về Machine Learning và Tầm nhìn máy tính tại Đại học Quốc gia Singapore. 
+  Giám đốc kỹ thuật và nhà khoa học nghiên cứu tại Facebook, Growth Hacker.
+  Nhà đầu tư và cố vấn khởi nghiệp. Hơn 20 ấn phẩm / bằng sáng chế.
+home.qevan.name.keep: Qevan Guo
+home.qevan.title.keep: Đồng Sáng Lập
+home.raullen.desc.keep: >-
+Tiến sĩ và Nhà khoa học nghiên cứu trong Mật mã học tại UWaterloo. 
+Trưởng phòng R & D Crypto tại Uber, Kỹ sư bảo mật tại Google. 
+Hơn 8 năm kinh nghiệm về mật mã và blockchain.
+home.raullen.name.keep: Raullen Chai
+home.raullen.title.keep: Đồng Sáng Lập
+home.section.advisors: IoTeX.Advisors
+home.section.arch: IoTeX.Architecture
+home.section.innovations: IoTeX.Innovations
+home.section.investors: IoTeX.Investors
+home.section.partners: IoTeX.StrategicPartners
+home.section.roadmap: IoTeX.Roadmap
+home.section.team: IoTeX.Team
+home.section.teamfrom: IoTeX.Team.Background
+home.section.useceses: IoTeX.UseCases
+home.site.description: >-
+  Một mạng phân cấp cho Internet of Things (IoT), được hỗ trợ bởi một Blockchain tự động mở rộng, có thể mở rộng, riêng tư. Kết nối thế giới thực, theo từng khối.
+home.slogan: Connecting the Physical World Block by Block
+home.title: IoTeX
+home.vedaad.desc.keep: >-
+  Sinh viên tại UC Berkeley học EECS và Toán Ứng dụng; nhà nghiên cứu blockchain về nhóm mật mã học tại Blockchain @ Berkeley
+home.vedaad.name.keep: Vedaad Shakib
+home.vedaad.title.keep: Thực tập sinh Kỹ Sư Blockchain
+home.vincent.desc.keep: >-
+  Tốt nghiệp Khoa học máy tính tại Đại học Waterloo. Đam mê bảo mật và blockchain.
+home.vincent.name.keep: Vincent Vuong
+home.vincent.title.keep: Thực tập sinh Kỹ Sư Phần Mềm
+home.xinxin.desc.keep: >-
+  Tiến sĩ trong Mật mã học tại UWaterloo. Sr. 
+  Kỹ sư nghiên cứu tại Bosch Research. 
+  14 năm nghiên cứu và kinh nghiệm trong lĩnh vực bảo mật thông tin và mật mã. 
+  Hơn 40 ấn phẩm / bằng sáng chế.
+home.xinxin.name.keep: Xinxin Fan
+home.xinxin.title.keep: Trưởng Bộ Phận Mã Hóa
+home.zhefeng.desc.keep: >-
+  Thạc sĩ Khoa học Máy tính tại Đại học California San Diego và Cử nhân Toán học và Khoa học Máy tính tại Đại học Wisconsin-Madison.
+  Người đam mê Công nghệ Blockchain, Machine Learning, và Internet of Things.
+home.zhefeng.name.keep: Zhefeng Li
+home.zhefeng.title.keep: Kỹ Sư Blockchain
+next: Kế tiếp
+profile.bar_receive_points: LẤY
+profile.bar_redeem_points: GỬI YÊU CẦU
+profile.bar_send_points: TẠO CODE
+profile.bar_success_receive_points: LẤY
+profile.bar_success_send_points: TẠO
+profile.eth_address: ĐỊA CHỈ VÍ ETH
+profile.history.category: Danh Mục
+profile.history.point: Điểm
+profile.history.status: Trạng thái
+profile.history.time: Thời gian
+profile.msg_receive_points: msg_receive_points
+profile.phone: Số điện thoại
+profile.receive_reward_points: NHẬN
+profile.redeem.less_than_100_points: Bạn cần ít nhất 100 điểm để gửi yêu cầu.
+profile.redeem.not_a_number: Làm ơn điền một số hợp lệ.
+profile.redeem.not_enough_points: Bạn không có đủ điểm.
+profile.redeem.smaller_than_zero: Làm ơn điền số hợp lệ để quy đổi.
+profile.redeem.no_valid_eth_address: Bạn cần địa chỉ ví ETH hợp lệ.
+profile.redeem.success: >-
+  Để đảm bảo tất cả các đơn đăng ký được xử lý an toàn và để tránh phí gas cao, 
+  chúng tôi sẽ xử lý dần các đơn đăng ký và hoàn tất tất cả các lần rút lại điểm quy đổi thành token trong vòng hai tuần kể từ ngày phát hành token của chúng tôi.
+profile.redeem_reward_points: QUY ĐỔI
+profile.reward_points_history: LỊCH SỬ
+profile.send_reward_points: GỬI
+profile.telegram_account_id: Telegram
+profile.title_receive_points: ĐIỀN CODE ĐỂ NHẬN THÊM ĐIỂM
+profile.title_redeem_points: ĐIỀN VÒA SỐ LƯỢNG BẠN MUỐN QUY ĐỔI THÀNH IOTX
+profile.title_send_points: ĐIỀN VÀO SỐ LƯỢNG BẠN MUỐN GỬI
+stonevan.twitter: >-
+  TÔi vừa nhận được 100 điểm miễn phí từ sự kiện chào mừng phát hành bản Testnet đầu tiên của IoTeX. @iotex_io Vào và nhận nào!
+  
+subscribe.btn: ĐĂNG KÝ NHẬN TIN
+subscribe.desc: Thông tin mới nhất về tiến độ và sự kiện.
+subscribe.title: TIẾP TỤC CẬP NHẬT
+testnet-preview.home-title: Testnet Preview (StoneVan) sẽ được phát hành vào
+testnet-preview.released-event-title: Testnet Preview Đã Phát Hành!
+testnet-preview.released-title: Testnet Preview đã được phát hành vào
+topbar.blog: BLOG
+topbar.careers: NGHỀ NGHIỆP
+topbar.charity: TỪ THIỆN
+topbar.faq: FAQ
+topbar.home: TRANG CHỦ
+topbar.login: ĐĂNG NHẬP
+topbar.logout: ĐĂNG XUẤT
+topbar.white-paper: WHITE PAPER
+topbar.announcements: THÔNG BÁO
+whitepaper.button.next: TRANG SAU
+whitepaper.button.previous: TRANG TRƯỚC
